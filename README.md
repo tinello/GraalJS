@@ -5,6 +5,8 @@
 
  - Java 23
  - Maven 3.9
+ - VScode
+    - Extension Pack for Java -> https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack
 
 
 Generate package
